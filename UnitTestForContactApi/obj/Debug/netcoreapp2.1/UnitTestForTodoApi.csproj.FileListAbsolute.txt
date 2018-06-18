@@ -1,0 +1,17 @@
+I:\USEFUL_POCs\UnitTestForTodoApi\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+I:\USEFUL_POCs\UnitTestForTodoApi\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+I:\USEFUL_POCs\UnitTestForTodoApi\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+I:\USEFUL_POCs\UnitTestForTodoApi\bin\Debug\netcoreapp2.1\UnitTestForTodoApi.deps.json
+I:\USEFUL_POCs\UnitTestForTodoApi\bin\Debug\netcoreapp2.1\UnitTestForTodoApi.runtimeconfig.json
+I:\USEFUL_POCs\UnitTestForTodoApi\bin\Debug\netcoreapp2.1\UnitTestForTodoApi.runtimeconfig.dev.json
+I:\USEFUL_POCs\UnitTestForTodoApi\bin\Debug\netcoreapp2.1\UnitTestForTodoApi.dll
+I:\USEFUL_POCs\UnitTestForTodoApi\bin\Debug\netcoreapp2.1\UnitTestForTodoApi.pdb
+I:\USEFUL_POCs\UnitTestForTodoApi\obj\Debug\netcoreapp2.1\UnitTestForTodoApi.csprojAssemblyReference.cache
+I:\USEFUL_POCs\UnitTestForTodoApi\obj\Debug\netcoreapp2.1\UnitTestForTodoApi.csproj.CoreCompileInputs.cache
+I:\USEFUL_POCs\UnitTestForTodoApi\obj\Debug\netcoreapp2.1\UnitTestForTodoApi.AssemblyInfoInputs.cache
+I:\USEFUL_POCs\UnitTestForTodoApi\obj\Debug\netcoreapp2.1\UnitTestForTodoApi.AssemblyInfo.cs
+I:\USEFUL_POCs\UnitTestForTodoApi\obj\Debug\netcoreapp2.1\UnitTestForTodoApi.dll
+I:\USEFUL_POCs\UnitTestForTodoApi\obj\Debug\netcoreapp2.1\UnitTestForTodoApi.pdb
+I:\USEFUL_POCs\UnitTestForTodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+I:\USEFUL_POCs\UnitTestForTodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+I:\USEFUL_POCs\UnitTestForTodoApi\obj\Debug\netcoreapp2.1\UnitTestForTodoApi.csproj.CopyComplete
